@@ -8,7 +8,7 @@ public:
         }
         for(int i=0;i<n;i++){
             till=max(till,nums[i]+i);
-            cout<<till<<endl;
+           // cout<<till<<endl;
             if(i>=till)return false;
             if(till>=n){
                 return true;
