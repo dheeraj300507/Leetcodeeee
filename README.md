@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
+| [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
