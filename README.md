@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0160-intersection-of-two-linked-lists) |
+| [0771-jewels-and-stones](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 ## Trie
 |  |
