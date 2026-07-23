@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0771-jewels-and-stones) |
