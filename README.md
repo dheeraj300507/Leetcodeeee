@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 ## Trie
 |  |
 | ------- |
