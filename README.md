@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0238-product-of-array-except-self) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
