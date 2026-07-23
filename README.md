@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0560-subarray-sum-equals-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0771-jewels-and-stones) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
