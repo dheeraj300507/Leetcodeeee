@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0049-group-anagrams) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0771-jewels-and-stones) |
