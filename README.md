@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sliding Window
 |  |
@@ -155,9 +156,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
