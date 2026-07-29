@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
