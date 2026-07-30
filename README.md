@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
+| [3110-score-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
