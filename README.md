@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0560-subarray-sum-equals-k) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
+| [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
+| [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0215-kth-largest-element-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
