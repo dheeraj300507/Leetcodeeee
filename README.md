@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0215-kth-largest-element-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 ## Greedy
 |  |
