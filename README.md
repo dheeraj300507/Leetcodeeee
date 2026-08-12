@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0160-intersection-of-two-linked-lists) |
@@ -88,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0118-pascals-triangle) |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
