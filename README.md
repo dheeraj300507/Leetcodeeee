@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0035-search-insert-position) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0215-kth-largest-element-in-an-array) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
