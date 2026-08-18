@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
+| [1720-decode-xored-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1720-decode-xored-array) |
 ## Counting Sort
 |  |
 | ------- |
