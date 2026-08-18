@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
+| [1470-shuffle-the-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
