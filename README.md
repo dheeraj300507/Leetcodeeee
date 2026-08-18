@@ -121,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2469-convert-the-temperature) |
