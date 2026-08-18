@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
