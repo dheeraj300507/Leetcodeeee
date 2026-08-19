@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1389-create-target-array-in-the-given-order) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
