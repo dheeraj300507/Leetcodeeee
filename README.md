@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1389-create-target-array-in-the-given-order) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
