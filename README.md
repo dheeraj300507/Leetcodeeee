@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
