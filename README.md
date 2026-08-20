@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
 ## Union-Find
 |  |
