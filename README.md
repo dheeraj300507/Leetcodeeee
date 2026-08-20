@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0617-merge-two-binary-trees) |
 | [0749-contain-virus](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0749-contain-virus) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0617-merge-two-binary-trees) |
 | [0749-contain-virus](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0749-contain-virus) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
@@ -310,12 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0617-merge-two-binary-trees) |
 ## Enumeration
 |  |
 | ------- |
