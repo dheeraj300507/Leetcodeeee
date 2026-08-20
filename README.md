@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3270-find-the-key-of-the-numbers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3270-find-the-key-of-the-numbers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3345-smallest-divisible-digit-product-i) |
