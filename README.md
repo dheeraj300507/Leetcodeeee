@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2652-sum-multiples) |
