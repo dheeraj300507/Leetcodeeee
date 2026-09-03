@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3270-find-the-key-of-the-numbers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
