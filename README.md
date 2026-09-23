@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2169-count-operations-to-obtain-zero) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3110-score-of-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
