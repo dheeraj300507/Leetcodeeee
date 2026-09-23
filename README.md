@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2169-count-operations-to-obtain-zero) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
