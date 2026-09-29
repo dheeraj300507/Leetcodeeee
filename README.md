@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0128-longest-consecutive-sequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 ## Greedy
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0064-minimum-path-sum) |
 | [0749-contain-virus](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0749-contain-virus) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
