@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3151-special-array-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3151-special-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1720-decode-xored-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
