@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
