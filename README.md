@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
