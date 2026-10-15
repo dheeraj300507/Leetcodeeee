@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
@@ -421,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
