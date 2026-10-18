@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
