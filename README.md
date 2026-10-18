@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3110-score-of-a-string) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
