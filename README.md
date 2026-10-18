@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1672-richest-customer-wealth) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0042-trapping-rain-water) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
 | ------- |
