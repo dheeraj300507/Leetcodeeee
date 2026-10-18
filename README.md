@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
 | [0749-contain-virus](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0749-contain-virus) |
 | [0804-unique-morse-code-words](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1046-last-stone-weight) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0657-robot-return-to-origin) |
 | [0749-contain-virus](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0749-contain-virus) |
+| [0832-flipping-an-image](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1688-count-of-matches-in-tournament) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0064-minimum-path-sum) |
 | [0749-contain-virus](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0749-contain-virus) |
+| [0832-flipping-an-image](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1672-richest-customer-wealth) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1720-decode-xored-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
