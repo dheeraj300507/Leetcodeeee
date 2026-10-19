@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2485-find-the-pivot-integer) |
 | [2651-calculate-delayed-arrival-time](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2651-calculate-delayed-arrival-time) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
@@ -454,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
