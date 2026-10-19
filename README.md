@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3110-score-of-a-string) |
