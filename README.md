@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2574-left-and-right-sum-differences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2574-left-and-right-sum-differences) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
