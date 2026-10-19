@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2169-count-operations-to-obtain-zero) |
+| [2810-faulty-keyboard](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
