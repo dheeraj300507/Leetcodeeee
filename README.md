@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2119-a-number-after-a-double-reversal) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1678-goal-parser-interpretation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
