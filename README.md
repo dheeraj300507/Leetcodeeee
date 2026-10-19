@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1720-decode-xored-array) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1822-sign-of-the-product-of-an-array) |
