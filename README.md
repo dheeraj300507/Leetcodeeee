@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
+| [3886-sum-of-sortable-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3842-toggle-light-bulbs) |
+| [3886-sum-of-sortable-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/dheeraj300507/Leetcodeeee/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
