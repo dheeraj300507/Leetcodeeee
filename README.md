@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2974-minimum-number-game) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1323-maximum-69-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/dheeraj300507/Leetcodeeee/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/dheeraj300507/Leetcodeeee/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dheeraj300507/Leetcodeeee/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
